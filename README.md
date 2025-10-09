@@ -1,3 +1,3 @@
-Backend ecommerce application using Java, Spring and Postgres. Based on youtube series https://bit.ly/telusko_spring_yt. 
+Backend ecommerce application using Java, SpringBoot and Postgres. Based on youtube series https://bit.ly/telusko_spring_yt. 
 
 Frontend coming soon...
